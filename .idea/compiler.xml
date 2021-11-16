@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="digitalinnovation.one.experts.configserver-config-server" target="1.8" />
+      <module name="digitalinnovation.one.experts.configserver-config-server.main" target="1.8" />
+      <module name="digitalinnovation.one.experts.configserver-config-server.test" target="1.8" />
+      <module name="springcloud-experts-dio.config-server" target="1.8" />
+      <module name="springcloud-experts-dio.config-server.main" target="1.8" />
+      <module name="springcloud-experts-dio.config-server.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

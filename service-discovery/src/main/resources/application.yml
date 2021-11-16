@@ -1,7 +1,9 @@
 
 spring:
+
   application:
-    name: shopping-cart
+    name:
+      service-discovery
 
   cloud:
     config:
